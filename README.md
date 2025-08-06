@@ -68,6 +68,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://youtu.be/Gwu63WASMU8
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
