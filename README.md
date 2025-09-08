@@ -1,7 +1,7 @@
 # Web Development Project - Discussion Board
 
 Submitted by: Ricardo Beale
-This web app: A discussion board that allws users to add a post edit, upvote, delete, and leave comments on.
+This web app: A discussion board that allows users to add a post edit, upvote, delete, and leave comments on.
 
 Time spent: 6 hours spent in total
 
